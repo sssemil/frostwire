@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <default revision="refs/heads/master"
+           remote="github"
+           sync-c="true"
+           sync-j="4" />
+
+  <project path="frostwire-android" name="frostwire/frostwire-android" />
+  <project path="frostwire-jlibtorrent" name="frostwire/frostwire-jlibtorrent" />
+  <project path="frostwire-desktop" name="frostwire/frostwire-desktop" />
+  <project path="frostwire-common" name="frostwire/frostwire-common" />
+</manifest>
