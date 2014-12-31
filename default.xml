@@ -5,6 +5,8 @@
            remote="github"
            sync-c="true"
            sync-j="4" />
+           
+  <project path="frostwire" name="sssemil/frostwire" />
 
   <project path="frostwire-android" name="frostwire/frostwire-android" />
   <project path="frostwire-jlibtorrent" name="frostwire/frostwire-jlibtorrent" />
